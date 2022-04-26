@@ -1,0 +1,23 @@
+div.category > ul > li a{
+    color: #212529;
+    text-decoration: none;
+
+}
+
+img {
+    object-fit: cover;
+}
+
+.new-comment, .comment a{
+    color: #212529;
+    text-decoration: none;
+}
+
+.comment-form {
+    color: crimson;
+    font-weight: 600;
+}
+
+footer{
+    text-align: center;
+}
