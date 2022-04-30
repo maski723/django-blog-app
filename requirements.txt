@@ -1,6 +1,6 @@
 asgiref==3.5.0
 Django==4.0.4
-django-markdownx==3.0.1
+django-markdownx==4.0.0b1
 Markdown==3.3.6
 Pillow==9.1.0
 python-dotenv==0.20.0
